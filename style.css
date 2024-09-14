@@ -1,0 +1,54 @@
+body {
+    background-color: rgb(250, 250, 250);
+    margin: 0px;
+    font-size: 1.35vw;
+}
+
+#logo{
+    margin: 0px;
+    padding: ;
+    box-shadow: 10px 10px 15px 5px ;
+}
+
+cite > a {
+    display: inline-block;
+    margin: 8px;
+    padding: 8px;
+}
+
+ul{
+    margin: 0px;
+}
+
+#mainheader
+
+body > header {
+    background-color: rgb(14, 196, 196);
+    color: darkgreen;
+}
+
+body > header > nav > ul {
+list-style: none;
+text-decoration: none;
+}
+.navbutton { 
+    color: brown;
+
+}
+
+body > main > article {
+    width: 70%;
+    margin: auto;
+}
+
+form {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+body > footer {
+    background-color: blueviolet;
+}
